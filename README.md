@@ -1,65 +1,125 @@
+<!-- =========================
+     PERFIL / PORTFOLIO README
+     ========================= -->
+
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=¡Hola,+soy+Tobias!+👋;Estudiante+de+Software;Líder+Creativo+en+Uco+Digital;Creador+de+Soluciones" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=780&lines=Hola%2C+soy+Tobias+Baigorria+👋;Estudiante+de+Software+en+Mendoza;Construyo+proyectos+con+visión+de+futuro;Branding+%2B+Tecnología+para+negocios+reales" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:tu-correo@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="ENLACE_A_TU_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/TobiasBaigorriaDev">
+    <img src="https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TobiasBaigorriaDev&label=Visitas&color=007ACC&style=flat" />
 </p>
 
 ---
 
-## 🚀 Sobre mí
+## ⚡ Sobre mí (versión corta y potente)
 
-Soy un desarrollador en formación desde el Valle de Uco, Mendoza. Me enfoco en comprender las cosas desde la base para construir sistemas sólidos y escalables. No me gusta quedarme solo con la teoría; busco aplicar la tecnología como herramienta de transformación para negocios reales.
+Soy un desarrollador en formación de **Mendoza (Valle de Uco)**. Me obsesiona entender el *por qué* de las cosas para construir sistemas sólidos.
+Me interesa la mezcla peligrosa (y poderosa) de **tecnología + diseño + estrategia** para transformar negocios reales.
 
-* 🎓 Cursando **Informática y Desarrollo de Software** en la Universidad del Aconcagua.
-* 💡 Impulsando **Uco Digital**, diseñando e implementando la digitalización de negocios locales.
-* 🧠 Me destaco por mi capacidad de estructurar ideas complejas, anticipar errores y mantener una visión a largo plazo en cada proyecto.
-* 🌱 Siempre aprendiendo, iterando y buscando entender el "porqué" detrás de cada línea de código.
+- 🎓 Universidad del Aconcagua — Informática y Desarrollo de Software
+- 🚀 Impulsando **Uco Digital** (digitalización + branding)
+- 🧠 Me gusta estructurar, optimizar y pensar a largo plazo
+- 🧩 En constante iteración: aprender → construir → mejorar
 
 ---
 
-## 💻 Herramientas y Tecnologías
+## 🧰 Stack / Tecnologías
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode&theme=dark" alt="Mis Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,figma&theme=dark" />
   </a>
 </p>
-## 🚀 Mis Proyectos Destacados
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Actualmente%20aprendiendo-Next.js%20%7C%20APIs%20%7C%20Buenas%20pr%C3%A1cticas-007ACC?style=for-the-badge" />
+</p>
+
+---
+
+## 🧨 Proyectos Destacados (modo portafolio)
+
+<!--
+TIP PRO: Para que se vea MÁS pro todavía, poné una imagen de portada por repo:
+- En cada repo creás /assets/cover.png
+- Luego la referenciás acá con raw.githubusercontent.com
+
+Si no tenés portada, dejá solo la card (pin).
+-->
 
 <div align="center">
 
+<!-- PROYECTO 1 -->
 <a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
-  <img src="https://raw.githubusercontent.com/TobiasBaigorriaDev/AlasBrasas/main/assets/cover.png" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=AlasBrasas&theme=tokyonight&hide_border=true" />
+</a>
+
+<!-- PROYECTO 2 (EDITÁ el nombre) -->
+<a href="https://github.com/TobiasBaigorriaDev/REPO_2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=REPO_2&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/>
 
-<a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=AlasBrasas&theme=tokyonight" />
+<!-- PROYECTO 3 -->
+<a href="https://github.com/TobiasBaigorriaDev/REPO_3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=REPO_3&theme=tokyonight&hide_border=true" />
+</a>
+
+<!-- PROYECTO 4 -->
+<a href="https://github.com/TobiasBaigorriaDev/REPO_4">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=REPO_4&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
+
 ---
 
-## 📈 Mi Actividad en GitHub
+## 🧩 Qué hago (en concreto)
+
+✅ Landing pages rápidas y prolijas  
+✅ Sitios para PyMEs con enfoque en conversión  
+✅ Automatización simple (formularios, WhatsApp, emails, procesos)  
+✅ UI + branding (cuando el proyecto lo pide)
+
+---
+
+## 📈 Métricas (para el ego… y para medir progreso)
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=TobiasBaigorriaDev&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasBaigorriaDev&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasBaigorriaDev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/TobiasBaigorriaDev)
-  
-  <br />
+<br/>
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TobiasBaigorriaDev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=TobiasBaigorriaDev&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
+
+---
+
+## 🤝 Contacto
+
+Si querés hablar de proyectos, colaboración o ideas:
+- 📩 Email: **tu-correo@gmail.com**
+- 💼 LinkedIn: **ENLACE_A_TU_LINKEDIN**
+
+---
+
+<p align="center">
+  <i>“Construyo hoy lo que me gustaría ver funcionando mañana.”</i>
+</p>
