@@ -24,7 +24,7 @@
 
 ---
 
-## ⚡ Sobre mí (versión corta y potente)
+⚡ Sobre mí 
 
 Soy un desarrollador en formación de **Mendoza (Valle de Uco)**. Me obsesiona entender el *por qué* de las cosas para construir sistemas sólidos.
 Me interesa la mezcla peligrosa (y poderosa) de **tecnología + diseño + estrategia** para transformar negocios reales.
@@ -50,7 +50,7 @@ Me interesa la mezcla peligrosa (y poderosa) de **tecnología + diseño + estrat
 
 ---
 
-## 🧨 Proyectos Destacados (modo portafolio)
+## 🧨 Proyectos Destacados 
 
 <!--
 TIP PRO: Para que se vea MÁS pro todavía, poné una imagen de portada por repo:
