@@ -70,22 +70,6 @@ Si no tenés portada, dejá solo la card (pin).
   />
 </a>
 
-<!-- PROYECTO 2 (EDITÁ el nombre) -->
-<a href="https://github.com/TobiasBaigorriaDev/REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=REPO_2&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/>
-
-<!-- PROYECTO 3 -->
-<a href="https://github.com/TobiasBaigorriaDev/REPO_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=REPO_3&theme=tokyonight&hide_border=true" />
-</a>
-
-<!-- PROYECTO 4 -->
-<a href="https://github.com/TobiasBaigorriaDev/REPO_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=REPO_4&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
