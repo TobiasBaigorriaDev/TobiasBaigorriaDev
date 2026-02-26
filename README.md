@@ -37,8 +37,9 @@ Soy un desarrollador en formación desde el Valle de Uco, Mendoza. Me enfoco en 
 
 <p align="center">
   <a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=AlasBrasas&theme=tokyonight&show_owner=true" alt="Alas Brasas" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=AlasBrasas&theme=tokyonight" />
+</a>
+  
 </p>
 ---
 
