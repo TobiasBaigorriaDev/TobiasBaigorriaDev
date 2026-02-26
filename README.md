@@ -35,12 +35,19 @@ Soy un desarrollador en formación desde el Valle de Uco, Mendoza. Me enfoco en 
 </p>
 ## 🚀 Mis Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
+<div align="center">
+
+<a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
+  <img src="https://raw.githubusercontent.com/TobiasBaigorriaDev/AlasBrasas/main/assets/cover.png" width="420" />
+</a>
+
+<br/>
+
+<a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=AlasBrasas&theme=tokyonight" />
 </a>
-  
-</p>
+
+</div>
 ---
 
 ## 📈 Mi Actividad en GitHub
