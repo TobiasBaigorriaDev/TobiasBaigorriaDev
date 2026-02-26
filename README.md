@@ -33,23 +33,20 @@ Soy un desarrollador en formación desde el Valle de Uco, Mendoza. Me enfoco en 
     <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,figma,git,github,vscode&theme=dark" alt="Mis Skills" />
   </a>
 </p>
+## 🚀 Mis Proyectos Destacados
 
+<p align="center">
+  <a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=AlasBrasas&theme=tokyonight" alt="Alas Brasas" />
+  </a>
+</p>
 ---
 
 ## 📈 Mi Actividad en GitHub
 
 <div align="center">
 
-## 🚀 Mis Proyectos Destacados
 
-<p align="center">
-  <a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=AlasBrasas&theme=tokyonight" alt="Proyecto 1" />
-  </a>
-  <a href="https://github.com/TU_USUARIO/NOMBRE_DEL_REPO_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_DEL_REPO_2&theme=tokyonight" alt="Proyecto 2" />
-  </a>
-</p>
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasBaigorriaDev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/TobiasBaigorriaDev)
   
