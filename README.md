@@ -66,7 +66,7 @@ Si no tenés portada, dejá solo la card (pin).
 <a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
   <img 
     src="https://raw.githubusercontent.com/TobiasBaigorriaDev/AlasBrasas/main/assets/cover.png"
-    width="520"
+    width="300"
   />
 </a>
 
