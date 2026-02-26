@@ -60,15 +60,21 @@ TIP PRO: Para que se vea MÁS pro todavía, poné una imagen de portada por repo
 Si no tenés portada, dejá solo la card (pin).
 -->
 
-<div align="center">
 
 <!-- PROYECTO 1 -->
-<a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
-  <img 
-    src="https://raw.githubusercontent.com/TobiasBaigorriaDev/AlasBrasas/main/assets/cover.png"
-    width="300"
-  />
-</a>
+<div align="center">
+  <a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
+    <img 
+      src="https://raw.githubusercontent.com/TobiasBaigorriaDev/AlasBrasas/main/assets/cover.png"
+      width="300"
+    />
+  </a>
+
+  <br/>
+
+  <a href="https://alasbrasasfogoneros.netlify.app/" target="_blank">
+    🌐 Ver demo en vivo
+  </a>
 
 
 </div>
