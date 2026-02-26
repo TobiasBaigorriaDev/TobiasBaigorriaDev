@@ -40,7 +40,7 @@ Soy un desarrollador en formación desde el Valle de Uco, Mendoza. Me enfoco en 
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/TobiasBaigorriaDev)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TobiasBaigorriaDev&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/TobiasBaigorriaDev)
   
   <br />
 
