@@ -40,10 +40,10 @@ Soy un desarrollador en formación desde el Valle de Uco, Mendoza. Me enfoco en 
 
 <div align="center">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/TU_USUARIO_AQUI)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/TobiasBaigorriaDev)
   
   <br />
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=TU_USUARIO_AQUI&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=TobiasBaigorriaDev&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
