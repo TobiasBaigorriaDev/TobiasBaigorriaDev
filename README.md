@@ -64,7 +64,10 @@ Si no tenés portada, dejá solo la card (pin).
 
 <!-- PROYECTO 1 -->
 <a href="https://github.com/TobiasBaigorriaDev/AlasBrasas">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=TobiasBaigorriaDev&repo=AlasBrasas&theme=tokyonight&hide_border=true" />
+  <img 
+    src="https://raw.githubusercontent.com/TobiasBaigorriaDev/AlasBrasas/main/assets/cover.png"
+    width="520"
+  />
 </a>
 
 <!-- PROYECTO 2 (EDITÁ el nombre) -->
